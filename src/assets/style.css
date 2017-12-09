@@ -1,0 +1,12 @@
+a,h1,h2,p,i{
+    color: #000;
+}
+.top i,.top h2{
+    color: #f8f8f8;
+}
+.ivu-icon{
+    font-size: 0.5rem!important;
+}
+.router-link-active .ivu-icon, .router-link-active{
+    color: #00f;
+}
